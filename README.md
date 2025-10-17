@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Neelay Choudhury
 
-### AI Engineer | GenAI Specialist | LLM Architect
+### AI Engineer | GenAI Specialist | AI Advocate
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Building+Production+GenAI+Systems;Architecting+Advanced+RAG+Pipelines;Developing+Multi-Agent+AI+Workflows;Shipping+LLM-Powered+Products" alt="Typing SVG" />
 
@@ -39,6 +39,13 @@ def get_expertise(self):
 
 def current_focus(self):
     return "Building scalable GenAI products that ship 🚢"
+
+
+Initialize
+me = AIEngineer()
+print(me.current_focus())
+
+undefined
 
 
 ---
