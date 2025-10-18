@@ -15,40 +15,7 @@
 ---
 
 ## 🚀 About Me
-
-class AIEngineer:
-def init(self):
-self.name = "Neelay Choudhury"
-self.role = "AI Engineer"
-self.location = "London, UK"
-self.education = "MSc Artificial Intelligence @ Queen Mary University"
-
-def get_expertise(self):
-    return {
-        "core": ["GenAI", "LLMs", "RAG Systems", "Agentic AI"],
-        "frameworks": ["LangChain", "LangGraph", "PyTorch", "HuggingFace"],
-        "languages": ["Python", "C++", "SQL"],
-        "cloud": ["GCP", "AWS", "Docker"],
-        "specialties": [
-            "Multi-Agent Orchestration",
-            "Advanced RAG Architectures",
-            "Production ML Systems",
-            "Prompt Engineering"
-        ]
-    }
-
-def current_focus(self):
-    return "Building scalable GenAI products that ship 🚢"
-
-
-Initialize
-me = AIEngineer()
-print(me.current_focus())
-
-undefined
-
-
----
+AI Engineer specializing in production GenAI systems that turn complex, ambiguous problems into deployed software with measurable impact across telecom, financial, and technology domains. I design and ship end‑to‑end solutions that blend LLMs, RAG, and multi‑agent workflows with robust MLOps, CI/CD, and monitoring on cloud infrastructure. My approach is simple: embed with stakeholders, frame the real problem, iterate fast, and own delivery from architecture through production and adoption.
 
 ## 💼 What I Do
 
@@ -60,29 +27,48 @@ undefined
 
 ---
 
+
+
+---
+
 ## 🛠️ Tech Stack
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
+
+### 💻 Languages & Core Technologies
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### AI/ML Frameworks
+### 🤖 AI/ML Frameworks & Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
 
-### Cloud & DevOps
+### ☁️ Cloud & Infrastructure
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Databases & Tools
+### 🛠️ Development Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🗄️ Databases & Vector Stores
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+
+</div>
+
 
 ---
 
