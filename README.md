@@ -2,11 +2,11 @@
 
 # Neelay Choudhury
 
-### Applied AI Engineer · Building production multi-agent systems
+### Applied AI Engineer · Production multi-agent systems, RAG, and LLM fine-tuning
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=2E97F7&center=true&vCenter=true&width=620&lines=Co-founder+%40+Scintilink+%E2%80%94+live+multi-agent+platform;Shipping+LLM+systems+with+measurable+impact;LangGraph+%C2%B7+RAG+%C2%B7+Fine-tuning+%C2%B7+Evals" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=2E97F7&center=true&vCenter=true&width=620&lines=Shipping+production+GenAI+with+measurable+impact;LangGraph+%C2%B7+RAG+%C2%B7+Fine-tuning+%C2%B7+Evals;MSc+AI+(Distinction)+%C2%B7+4%2B+years+engineering" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/scintilink.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://scintilink.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://scintilink.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neelay-choudhury-768537152)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelaychoudhury1999@gmail.com)
 
@@ -18,17 +18,17 @@
 
 I design and ship production GenAI systems — the messy, end-to-end kind, not just demos. **MSc Artificial Intelligence (Distinction)** from Queen Mary University of London, **4+ years** of engineering experience, and a track record of taking ambiguous problems through architecture, deployment, and adoption.
 
-Currently co-founding **[Scintilink](https://scintilink.com)**, a live multi-agent AI platform serving 100+ researchers. Before that, I was an engineer at Lumen Technologies, where I shipped AI-driven forecasting tools that informed **$25M+ in annual network investment decisions**.
+Most recently I co-founded **Scintilink** *(Dec 2024 – Sept 2025)*, a multi-agent AI platform that served 100+ researchers in production. Before that, I spent three years at Lumen Technologies shipping AI-driven forecasting tools that informed **$25M+ in annual network investment decisions**.
 
 I care about AI that's safe, reliable, and actually useful — not just impressive in a screenshot.
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Recent Work
 
-### [Scintilink](https://scintilink.com) — Multi-Agent Research Platform `In production · 100+ users`
+### Scintilink — Multi-Agent Research Platform `Co-founder · Dec 2024 – Sept 2025`
 
-An 8-agent system orchestrated with LangGraph, deployed on GCP, helping researchers reason over scientific literature with citation-backed answers.
+An 8-agent system orchestrated with LangGraph, deployed on GCP, helping researchers reason over scientific literature with citation-backed answers. Took the platform from architecture through production deployment to 100+ active users.
 
 | Metric | Result |
 |---|---|
@@ -126,66 +126,3 @@ A LangGraph pipeline that classifies intent, scores mission-criticality and late
 ## 🔭 Currently Exploring
 
 ```mermaid
-mindmap
-  root((What I'm digging into))
-    Agentic AI
-      Multi-agent coordination patterns
-      Tool-use planning and verification
-      Long-horizon task decomposition
-    Evaluation
-      Agent decision logging
-      Failure-case taxonomy
-      LLM-as-judge calibration
-    Retrieval
-      Hybrid search tuning
-      Query decomposition
-      Contextual compression
-    Safety and Reliability
-      Guardrails for production
-      Human-in-the-loop design
-      Regression testing for LLMs
-```
-
----
-
-## 🎓 Education & Certifications
-
-**MSc Artificial Intelligence** — Queen Mary University of London (2024–2025) · *Distinction*  
-**B.Tech Computer Science & Systems Engineering** — KIIT University (2017–2021)
-
-| Provider | Certification |
-|:--------|:--------------|
-| DeepLearning.AI | Neural Networks & Deep Learning |
-| DeepLearning.AI | Improving Deep Neural Networks |
-| DeepLearning.AI | Structuring ML Projects |
-| Google Cloud | Introduction to Generative AI |
-| Google Cloud | Google Cloud Essentials |
-| Duke University | Business Metrics for Data-Driven Companies |
-| Rice University | Hypothesis Testing & Confidence Intervals |
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neelay123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelay123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-I'm open to collaborating on agentic systems, applied research roles, and conversations about building AI that ships. Based in **London, UK**.
-
-- 🌐 **scintilink.com** — what I'm building right now
-- 💼 **LinkedIn** — [neelay-choudhury-768537152](https://linkedin.com/in/neelay-choudhury-768537152)
-- 📧 **neelaychoudhury1999@gmail.com**
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=neelay123&color=blue&style=flat-square)
-
-</div>
