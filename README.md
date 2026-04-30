@@ -1,198 +1,191 @@
 <div align="center">
-  
-# 👋 Hi, I'm Neelay Choudhury
 
-### AI Engineer | GenAI Specialist | AI Advocate
+# Neelay Choudhury
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Building+Production+GenAI+Systems;Architecting+Advanced+RAG+Pipelines;Developing+Multi-Agent+AI+Workflows;Shipping+LLM-Powered+Products" alt="Typing SVG" />
+### Applied AI Engineer · Building production multi-agent systems
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=2E97F7&center=true&vCenter=true&width=620&lines=Co-founder+%40+Scintilink+%E2%80%94+live+multi-agent+platform;Shipping+LLM+systems+with+measurable+impact;LangGraph+%C2%B7+RAG+%C2%B7+Fine-tuning+%C2%B7+Evals" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/scintilink.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://scintilink.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neelay-choudhury-768537152)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelaychoudhury1999@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://scintilink.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
-AI Engineer specializing in production GenAI systems that turn complex, ambiguous problems into deployed software with measurable impact across telecom, financial, and technology domains. I design and ship end‑to‑end solutions that blend LLMs, RAG, and multi‑agent workflows with robust MLOps, CI/CD, and monitoring on cloud infrastructure. My approach is simple: embed with stakeholders, frame the real problem, iterate fast, and own delivery from architecture through production and adoption.
+## About
 
-## 💼 What I Do
+I design and ship production GenAI systems — the messy, end-to-end kind, not just demos. **MSc Artificial Intelligence (Distinction)** from Queen Mary University of London, **4+ years** of engineering experience, and a track record of taking ambiguous problems through architecture, deployment, and adoption.
 
-🤖 **Build Production GenAI Systems** - Architecting and deploying LLM-powered applications at scale  
-🔗 **Design Agentic Workflows** - Creating autonomous multi-agent systems with LangGraph  
-📚 **Advanced RAG Pipelines** - Hybrid retrieval strategies with semantic search and reranking  
-🎯 **Fine-tune LLMs** - LoRA/PEFT optimization for domain-specific applications  
-🛠️ **Full-Stack AI Engineering** - From prototype to production with robust MLOps
+Currently co-founding **[Scintilink](https://scintilink.com)**, a live multi-agent AI platform serving 100+ researchers. Before that, I was an engineer at Lumen Technologies, where I shipped AI-driven forecasting tools that informed **$25M+ in annual network investment decisions**.
+
+I care about AI that's safe, reliable, and actually useful — not just impressive in a screenshot.
 
 ---
 
+## 🚀 What I'm Building
 
+### [Scintilink](https://scintilink.com) — Multi-Agent Research Platform `In production · 100+ users`
 
----
+An 8-agent system orchestrated with LangGraph, deployed on GCP, helping researchers reason over scientific literature with citation-backed answers.
 
-## 🛠️ Tech Stack
+| Metric | Result |
+|---|---|
+| Processing latency | **−40%** via intelligent routing & state management |
+| Extraction accuracy | **+30%** through context engineering |
+| Documents analysed | **500+** automated runs in production |
+| Retrieval architecture | Hybrid BM25 + OpenAI embeddings + Reciprocal Rank Fusion |
+| Stack | LangGraph · LangChain · LangSmith · Qdrant · GCP Cloud Run · Firestore · Docker |
 
-<div align="center">
-
-### 💻 Languages & Core Technologies
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🤖 AI/ML Frameworks & Tools
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
-
-### ☁️ Cloud & Infrastructure
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 🛠️ Development Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🗄️ Databases & Vector Stores
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-
-</div>
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neelay123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelay123&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neelay123&theme=tokyonight&hide_border=true)
-
-</div>
+Built custom evaluation harnesses, prompt pattern libraries, telemetry dashboards, and safety guardrails — because shipping agents without observability is shipping liabilities.
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🔥 [Hybrid Multi-Agent Financial Intelligence System](https://github.com/neelay123/financial-ai)
-> Enterprise-grade AI system integrating fine-tuned LLMs with Graph Neural Networks for financial analysis
-- 🎯 550% improvement in QA accuracy through systematic fine-tuning
-- 🕸️ Processing 18K+ SEC filings with knowledge graph construction
-- 🤖 Advanced agentic workflows using LangGraph state management
-- 💾 Production-scale RAG with semantic search and vector databases
+### 🧠 Agentic Financial Intelligence System
+**Fine-tuned LLM + Multi-Agent RAG + Graph Neural Networks**
 
-**Tech**: PyTorch, LangChain, LangGraph, Microsoft Phi-4, GCP, Qdrant
+- **Fine-tuned Microsoft Phi-4 (14.7B params)** with LoRA on FinQA → **+550% accuracy** on financial QA, with FlashAttention-2 optimisation and production quantisation
+- **3-way LangGraph query router** (numerical reasoning · local graph traversal · global community detection) over a **68,989-embedding Qdrant pipeline**
+- Streaming ingestion of **18,000+ SEC EDGAR filings** into a heterogeneous knowledge graph of **17,552 nodes** and **420,796 edges**
+- Integrated four GNN architectures: GraphSAGE, GATv2, Temporal GNN, Global Graph RAG
 
----
-
-### 📚 [Legal Search Engine with BM25](https://github.com/neelay123/legal-search)
-> High-performance document retrieval system for legal research
-- ⚡ Sub-500ms search response times on 100k+ documents
-- 🎯 Advanced ranking algorithms (BM25Okapi)
-- 🏗️ Resilient multi-threaded architecture
-
-**Tech**: Python, NLP, Information Retrieval, Tkinter
+`PyTorch` · `LangGraph` · `HuggingFace` · `Qdrant` · `GCP` · `Yahoo Finance API`
 
 ---
 
-## 📈 Recent Achievements
+### 🧭 Agentic LLM Router
+**Cost/latency-aware model routing with confidence escalation**
 
-✅ Built production GenAI system serving 100+ concurrent users (99.9% uptime)  
-✅ Optimized multi-agent workflows achieving 40% latency reduction  
-✅ Fine-tuned 14.7B parameter LLM for domain-specific tasks  
-✅ Architected scalable RAG pipeline processing 18K+ documents  
-✅ Completed MSc in Artificial Intelligence at Queen Mary University
+A LangGraph pipeline that classifies intent, scores mission-criticality and latency-sensitivity, then picks the optimal model and deployment target (edge vs. cloud) — with confidence-based escalation at a **0.65 threshold**.
+
+- Four sequential LLM calls feeding a single routing decision
+- Intent-aware fallbacks → **zero bare exceptions** across all paths
+- Full pipeline traces via Pydantic `PipelineTrace` for observability
+- Benchmarked across 15 queries with **honest failure-case analysis** (because cherry-picked benchmarks help nobody)
+
+`LangGraph` · `Pydantic` · `OpenAI` · `Groq`
 
 ---
 
-## 🎓 Certifications
+### 🚗 Automotive RAG Chatbot
+**Hybrid retrieval over BMW, Tesla, and Ford annual reports**
 
-<div align="center">
+- Hybrid RAG: **BM25 (30%) + semantic (70%)** fused via Reciprocal Rank Fusion across **2,871 chunks**
+- **85.9% keyword match accuracy**, **100% pass rate** on a 13-case evaluation suite
+- Designed specifically to handle the failure modes of semantic-only retrieval: financial acronyms, exact figures, temporal comparisons
+
+`ChromaDB` · `OpenAI Embeddings` · `BM25` · `LangChain`
+
+---
+
+### 📚 Legal Search Engine
+**High-performance retrieval over 100k+ legal documents**
+
+- **Sub-500ms** search response on 100k+ documents
+- BM25Okapi ranking with multi-threaded architecture
+
+`Python` · `NLP` · `Information Retrieval`
+
+---
+
+## 🛠️ Tech Stack
+
+**Agentic Systems** — LangGraph · LangChain · LangSmith · ReAct · Plan-and-Execute · coordinator-agent patterns · context engineering · human-in-the-loop escalation
+
+**LLMs & Fine-tuning** — HuggingFace Transformers · LoRA · PEFT · OpenAI · Anthropic · Groq · FlashAttention-2 · quantisation
+
+**RAG & Retrieval** — Hybrid retrieval (BM25 + semantic + RRF) · Qdrant · ChromaDB · Pinecone · Multilingual-E5-Large · knowledge graphs
+
+**Evaluation & Observability** — Custom eval harnesses · A/B testing · agent decision logs · telemetry dashboards · regression testing
+
+**Core Stack** — Python · FastAPI · PyTorch · TensorFlow · SQL (Oracle, PostgreSQL, MySQL) · C++ · JavaScript
+
+**Cloud & Infra** — GCP (Cloud Run, Firestore, Firebase) · AWS · Docker · CI/CD · Kubernetes (familiar)
+
+**Data at Scale** — Production pipelines processing **500GB+ daily** · distributed processing on **2TB+ datasets** · streaming event processing
+
+---
+
+## 📈 Selected Impact
+
+| | |
+|---|---|
+| 🚀 | Co-founded and shipped a production 8-agent platform serving 100+ researchers |
+| ⚡ | Cut multi-agent processing latency by 40% through intelligent routing |
+| 🎯 | Achieved 550% accuracy improvement fine-tuning a 14.7B-parameter LLM |
+| 💰 | Built forecasting tools supporting $25M+ in annual network investment decisions (Lumen) |
+| ⏱️ | Delivered a critical product **7 months ahead of schedule** (2 months vs. 9-month estimate) |
+| 🗄️ | Optimised an Oracle PL/SQL system handling 10M+ monthly queries → +60% SQL performance |
+| 🎓 | MSc Artificial Intelligence — **Distinction**, Queen Mary University of London |
+
+---
+
+## 🔭 Currently Exploring
+
+```mermaid
+mindmap
+  root((What I'm digging into))
+    Agentic AI
+      Multi-agent coordination patterns
+      Tool-use planning and verification
+      Long-horizon task decomposition
+    Evaluation
+      Agent decision logging
+      Failure-case taxonomy
+      LLM-as-judge calibration
+    Retrieval
+      Hybrid search tuning
+      Query decomposition
+      Contextual compression
+    Safety and Reliability
+      Guardrails for production
+      Human-in-the-loop design
+      Regression testing for LLMs
+```
+
+---
+
+## 🎓 Education & Certifications
+
+**MSc Artificial Intelligence** — Queen Mary University of London (2024–2025) · *Distinction*  
+**B.Tech Computer Science & Systems Engineering** — KIIT University (2017–2021)
 
 | Provider | Certification |
-|:--------:|:-------------:|
-| 🧠 DeepLearning.AI | Neural Networks & Deep Learning |
-| 🧠 DeepLearning.AI | Improving Deep Neural Networks |
-| 🧠 DeepLearning.AI | Structuring ML Projects |
-| ☁️ Google Cloud | Cloud Essentials |
-| ☁️ Google Cloud | Introduction to Generative AI |
-| 📊 Duke University | Business Metrics for Data-Driven Companies |
-| 📈 Rice University | Hypothesis Testing & Confidence Intervals |
-
-</div>
+|:--------|:--------------|
+| DeepLearning.AI | Neural Networks & Deep Learning |
+| DeepLearning.AI | Improving Deep Neural Networks |
+| DeepLearning.AI | Structuring ML Projects |
+| Google Cloud | Introduction to Generative AI |
+| Google Cloud | Google Cloud Essentials |
+| Duke University | Business Metrics for Data-Driven Companies |
+| Rice University | Hypothesis Testing & Confidence Intervals |
 
 ---
 
-## 💡 Current Focus
-
-mindmap
-root((GenAI Engineering))
-Agentic AI
-Multi-Agent Systems
-Tool Use & Planning
-LangGraph Workflows
-Advanced RAG
-Hybrid Search
-Query Decomposition
-Contextual Compression
-Production ML
-Model Deployment
-MLOps Pipelines
-Evaluation Frameworks
-Fine-tuning
-LoRA/PEFT
-Domain Adaptation
-Instruction Tuning
-
-
----
-
-## 📫 Let's Connect!
-
-I'm always interested in collaborating on innovative AI projects, discussing the latest in GenAI, or exploring new opportunities.
-
-- 💼 **LinkedIn**: [neelay-choudhury-768537152](https://linkedin.com/in/neelay-choudhury-768537152)
-- 📧 **Email**: neelaychoudhury1999@gmail.com
-- 🌐 **Portfolio**: [scintilink.com](https://scintilink.com)
-- 📍 **Location**: London, UK
-
----
+## 📊 GitHub
 
 <div align="center">
 
-### 🌟 "Building AI systems that make a difference, one commit at a time" 🌟
-
-![Profile Views](https://komarev.com/ghpvc/?username=neelay123&color=blue&style=for-the-badge)
-
-⭐️ From [neelay123](https://github.com/neelay123)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neelay123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelay123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
-<!--
-**neelay123/neelay123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Let's Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm open to collaborating on agentic systems, applied research roles, and conversations about building AI that ships. Based in **London, UK**.
+
+- 🌐 **scintilink.com** — what I'm building right now
+- 💼 **LinkedIn** — [neelay-choudhury-768537152](https://linkedin.com/in/neelay-choudhury-768537152)
+- 📧 **neelaychoudhury1999@gmail.com**
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=neelay123&color=blue&style=flat-square)
+
+</div>
